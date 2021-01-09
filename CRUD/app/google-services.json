@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621025230319",
+    "project_id": "fir-54583",
+    "storage_bucket": "fir-54583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621025230319:android:4a385c3403f347755d0a1a",
+        "android_client_info": {
+          "package_name": "com.bayu.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621025230319-nqe25m0h8vucf2uuncamn26lu6j65oa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJUORRzAPZoTl5Q9nltDvynwlN_TmLWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621025230319-nqe25m0h8vucf2uuncamn26lu6j65oa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
